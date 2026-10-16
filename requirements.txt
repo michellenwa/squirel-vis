@@ -1,0 +1,9 @@
+streamlit
+requests
+SPARQLWrapper
+numpy
+pandas
+scipy
+scikit-learn
+plotly
+matplotlib
