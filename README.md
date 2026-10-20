@@ -45,7 +45,7 @@ The app opens in your browser at http://localhost:8501.
 
 If you use this dashboard or the SQuIREL framework in your research, please cite our paper
 
-'''bibtex
+```bibtex
 @misc{nwachukwu2026squirelcontextrelativeframeworkmeasuring,
       title={SQuIREL: A Context-Relative Framework for Measuring Entity Richness in Wikidata}, 
       author={Michelle Nwachukwu and Albert Meroño-Peñuela and Martim Brandão},
